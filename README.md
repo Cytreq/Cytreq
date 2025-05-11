@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cytreq
-- 👀 I’m interested in lerning languages and coding
+- 👀 I’m interested in learning languages and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
