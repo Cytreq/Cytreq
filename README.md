@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Cytreq
-- 👀 I’m interested in learning languages and coding
+- 👋 Hi, I’m Cyprian 
+- 👀 I’m interested in learning languages, playing chess, and running.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: My IT goal for this year is to learn python and make something thats works
 
 <!---
 Cytreq/Cytreq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
