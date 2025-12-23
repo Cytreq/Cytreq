@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Cyprian 
-- 👀 I’m interested in learning languages, playing chess, and running.
-- 🌱 I’m currently learning python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My IT goal for this year is to learn python and make something thats works
+Hi, I'm Cyprian.
 
-<!---
-Cytreq/Cytreq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student focusing on competitive programming and algorithms.
+Currently learning C++ with the long-term goal of reaching Olympiad-level problem solving (OI).
+
+Main focus:
+- C++ (fundamentals, STL, algorithms)
+- Algorithms and data structures
+- Problem solving and consistency
+
+Background interests:
+- Chess 
+- Running
+
+Long-term goal:
+Become a laureate of the Polish Olympiad in Informatics.
